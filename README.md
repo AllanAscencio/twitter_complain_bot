@@ -78,9 +78,8 @@ Author 👤 **Allan Ascencio**
 
 ## Considerations
 
-- Remember that webpages like Zillow may change the paths of the buttons, in which case is necessary to know the exact Xpath in order to change it in the code.
-- The parameters or inputs that are assumed from the prospect are: 1 personas seeking for a place to rent in San Francisco, CA. And he is willing to pay up to $3,000 USD per month
-- If you would like different parameters you must go into zillow and the put the parameters in use that link in the code
+- Remember that webpages like twitter may change their button paths, in that case we must update that Xpath of them inspecting the code of the page and update in our code
+
 
 ## 🤝 Contributing
 
